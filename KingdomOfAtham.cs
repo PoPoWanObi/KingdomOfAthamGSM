@@ -19,7 +19,7 @@ namespace WindowsGSM.Plugins
             author = "PoPoWanObi",
             description = "🧩 WindowsGSM plugin for supporting Kingdom of Atham Server",
             version = "1.0.0",
-            url = "https://github.com/PoPoWanObi/KingdomOfAtham",
+            url = "https://github.com/PoPoWanObi/KingdomOfAthamGSM",
             color = "#ff0000"
         };
 
